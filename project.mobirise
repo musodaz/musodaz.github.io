@@ -1,0 +1,2806 @@
+{
+  "settings": {
+    "name": "Dr Darren Hughes",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#2e2e2e",
+        "#8c8c8c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "uniqCompNum": 60,
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/img-0266-128x89.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MY SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Written articles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Policy &amp; strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Tools &amp; utilities</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Scientific research</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Bespoke breifings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Presentations</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "54",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1126.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-186e-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Dr Darren Hughes",
+          "text": "Communications, policy &amp; scientific expertise in&nbsp;<br>food systems,&nbsp;agriculture, nutrition and health<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1",
+          "_styles": {
+            ".mbr-section-text B": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000",
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "My services",
+          "text": "<p>I provide a series of services for clients in government, academia, the non-for-profit and private sectors. Click on the icons below to find out more and to see some examples.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#c0a375",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "pictures",
+              "family": "et-line",
+              "active": true,
+              "link": "page2.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page3.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "active": true,
+              "link": "page8.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
+              "active": true,
+              "link": "page4.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "newspaper",
+              "family": "et-line",
+              "active": true,
+              "link": "page7.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "presentation",
+              "family": "et-line",
+              "active": true,
+              "link": "page6.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#c0a375",
+              "border-color": "#c0a375"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000"
+            }
+          },
+          "title1": "Written articles",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Editorials, opinion pieces and web content",
+          "title2": "Policy &amp; strategy",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Corporate strategy and government policy",
+          "title3": "Tools &amp; utilities",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Online tools and interactive web content",
+          "title4": "Scientific research",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Peer-reviewed scientific research papers",
+          "title5": "Bespoke breifings",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Written briefings for international clients",
+          "title6": "Presentations",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Presentations for high-profile events",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "What my clients say",
+          "subtitle": "Testimonials I have received from clients<br>",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "Sir John Beddington<br>Former UK Chief Scientific Adviser (2007-2012) and Professor at Oxford University",
+              "text": "<p>“Darren has a deep understanding of nutrition, agriculture and food systems and is able to articulate this in a manner appropriate to different audiences.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jb1-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "Emmy Simmons<br>Member of the the Global Panel on Agriculture and Food Systems for Nutrtion",
+              "text": "<p>“Darren has brought focus and professionalism. He has facilitated dialogues in ways that have brought diverse voices into conversation and advanced understanding of complex challenges in food systems.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/simmons-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Jhollman C.",
+              "authorBio": "His Excellency John Kufuor<br>Former President of Ghana (2001–2009) and Chairperson of the African Union (2007–2008)",
+              "text": "<p>\"Darren’s briefings and presentations have been an essential part of the Global Panel’s success over the last few years.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jk3-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-9",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "about",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fullsizeoutput-188a-1-2000x1328.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "My skills and experience",
+          "caption": "<p>I have specialist communications skills in food systems, agriculture and nutrition. I&nbsp;produce&nbsp;strategies, briefings, presentations, editorials, web content and papers for high-profile individuals and organisations. My experience of working across multiple disciplines provides a unique insight to malnutrition within the wider food systems context, from both a scientific and policy perspective.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "color": "#7c706b"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "My Qualifications",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal; font-size: 1.09rem;\">PhD. in Human energy metabolism in obesity</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">MSc. in Human Nutrition</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">Diploma in Tropical Medicine&nbsp;(London School of Hygiene)&nbsp;</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">BSc (Hons). in Food Science</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">Assc. of Project Management Professional (APMP)</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">PRINCE2 Practitioner</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">Developed Vetted security clearance</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-h",
+          "_styles": {
+            "B": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "BLOCKQUOTE": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "color": "#7c706b"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "color": "#7c706b"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "title": "Career highlights",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal; font-size: 1.07rem;\">Senior consultant at the Global Panel on Agriculture and Food Systems for Nutrition</span></p><p><span style=\"font-style: normal; font-size: 1.07rem;\"><br></span><span style=\"font-size: 1.09rem; font-style: normal;\">Policy manager for obesity at the Department of Health</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\"><br></span><span style=\"font-size: 1.09rem; font-style: normal;\">Policy manager on 'mad cow disease' at the Department of Health</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">Scientific officer at the Food Standards Agency</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">Head of public affairs at Rothamsted, the longest running Agricultural research establishment in the world</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">Doctoral scientist in the the field of understanding how biochemical mechanisms in the body influence eating behaviour in the context of obesity.</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span><span style=\"font-style: normal; font-size: 1.09rem;\">Private Secretary to the Government Chief Scientific Adviser, where I helped shape his strategy on global food security.</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-f",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "BLOCKQUOTE": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "color": "#7c706b"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "title": "Specialist skills",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote><p><span style=\"font-size: 1.07rem;\">Professional writing and reviewing:</span><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Briefings and presentations</span></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Policy and strategy documents</span></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Specialist articles, web content, blogs</span></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Editorials and opinion pieces</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">- Meeting  papers</span></p></blockquote><blockquote><p><span style=\"font-size: 1.07rem;\">Knowledge and advice on:</span></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Science communications</span></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Strategy design</span></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Policy development</span></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Technical and scientific expertise</span></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">- Government / public affairs</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-j",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "19px"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "color": "#7c706b"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "My Rates",
+          "meta": "My professional consultancy rates are GBP £350 per day (based on an eight-hour day)",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Social Media</strong><br><br>Twitter: &nbsp;<b><a href=\"https://twitter.com/scienceforfood\" target=\"_blank\">@ScienceForFood\n</a></b><br><br>\n<br><br>LinkedIn:&nbsp;<b><a href=\"https://www.linkedin.com/in/drdarrenhughes\" target=\"_blank\">drdarrenhughes</a></b><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html\">Home</a></li><li><a class=\"text-white\" href=\"page1.html\">About me</a></li><li><a class=\"text-white\" href=\"page5.html\">Testimonials</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dhughes23a@me.com",
+            "alerts": {
+              "success": "Thanks for contacting me, I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-12",
+          "_styles": {
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Media",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fullsizeoutput-1873-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Written articles",
+          "text": "<p><b>Examples of media articles I have written</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-m"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-11.15.30-600x416.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.globalcitizen.org/en/content/malnutrition-india-children-food-hunger/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-11.10.02-600x412.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://www.newstatesman.com/sites/default/files/files/20120618foodscience.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-11.16.26-600x416.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://news.trust.org/item/20170703124856-zfen3/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-11.17.03-600x416.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.climatechangenews.com/2012/02/27/meet-the-techno-greens/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Editorial",
+          "subtitle1": "",
+          "caption1": "Article I wrote for Prof Reddy, President of the Public Health Foundation of India and member of the Global Panel<br>",
+          "title2": "Journal Article",
+          "subtitle2": "",
+          "caption2": "A food security article that I was invited to write, later published in the New Statesman journal<br><br>",
+          "title3": "Opinion Piece",
+          "subtitle3": "",
+          "caption3": "Opinion piece I wrote on Reuters for Rhoda Peace Tumusiime (former Commissioner in the African Union) and Graça Machel DBE ",
+          "title4": "Web Content",
+          "subtitle4": "",
+          "caption4": "Article I wrote for the Climate Home News website on sustainability and future agricultural technology<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.globalcitizen.org/en/content/malnutrition-india-children-food-hunger/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.newstatesman.com/sites/default/files/files/20120618foodscience.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://news.trust.org/item/20170703124856-zfen3/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.climatechangenews.com/2012/02/27/meet-the-techno-greens/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-k",
+          "_styles": {
+            "H4": {
+              "color": "#7c706b"
+            },
+            "P": {
+              "color": "#7c706b"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Social Media</strong><br><br>Twitter: &nbsp;<b><a href=\"https://twitter.com/scienceforfood\" target=\"_blank\">@ScienceForFood\n</a></b><br><br>\n<br><br>LinkedIn:&nbsp;<b><a href=\"https://www.linkedin.com/in/drdarrenhughes\" target=\"_blank\">drdarrenhughes</a></b><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html\">Home</a></li><li><a class=\"text-white\" href=\"page1.html\">About me</a></li><li><a class=\"text-white\" href=\"page5.html\">Testimonials</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dhughes23a@me.com",
+            "alerts": {
+              "success": "Thanks for contacting me, I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-12",
+          "_styles": {
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Corporate Documents",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fullsizeoutput-1873-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Corporate strategy and government policy&nbsp;",
+          "text": "<p>Examples of corporate strategy and government policy documents I have written</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-m"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-12.44.47-600x413.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://resources.rothamsted.ac.uk/sites/default/files/RRes_Strategy.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-12.44.04-600x413.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://webarchive.nationalarchives.gov.uk/20100408082121/http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/documents/digitalasset/dh_084024.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-12.45.09-600x413.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/287937/07-1184x-tackling-obesities-future-choices-report.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-11.17.03-600x416.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.climatechangenews.com/2012/02/27/meet-the-techno-greens/",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Corporate strategy",
+          "subtitle1": "",
+          "caption1": "Example of a corporate strategy I wrote for Rothamsted Research, the longest running agricultural research establishment in the world.<br>",
+          "title2": "Government policy&nbsp;",
+          "subtitle2": "",
+          "caption2": "Example of a government policy document I wrote to tackle obesity in England, as the obesity policy manager in 2007.<br>",
+          "title3": "Government report&nbsp;",
+          "subtitle3": "",
+          "caption3": "Example of a government policy report I contributed to on food and obesity<br><br> ",
+          "title4": "Web Content",
+          "subtitle4": "",
+          "caption4": "Article I wrote for the Climate Home News website on sustainability and future agricultural technology<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://resources.rothamsted.ac.uk/sites/default/files/RRes_Strategy.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://webarchive.nationalarchives.gov.uk/20100408082121/http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/documents/digitalasset/dh_084024.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/287937/07-1184x-tackling-obesities-future-choices-report.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Social Media</strong><br><br>Twitter: &nbsp;<b><a href=\"https://twitter.com/scienceforfood\" target=\"_blank\">@ScienceForFood\n</a></b><br><br>\n<br><br>LinkedIn:&nbsp;<b><a href=\"https://www.linkedin.com/in/drdarrenhughes\" target=\"_blank\">drdarrenhughes</a></b><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html\">Home</a></li><li><a class=\"text-white\" href=\"page1.html\">About me</a></li><li><a class=\"text-white\" href=\"page5.html\">Testimonials</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dhughes23a@me.com",
+            "alerts": {
+              "success": "Thanks for contacting me, I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-12",
+          "_styles": {
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Science",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fullsizeoutput-1873-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Scientific papers",
+          "text": "<p>Examples of articles I have written for the scientific community</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-m"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/book-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.amazon.com/Encyclopedia-Human-Nutrition-Three-Volume-Set/dp/0122266943/ref=pd_cp_14_1?ie=UTF8&refRID=08N161ZHPTE1H0ZF6Y5C",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/scipaps-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.researchgate.net/profile/Darren_Hughes",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/thesis-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.researchgate.net/publication/36130028_Exercise_appetite_and_energy_balance",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-17-at-11.17.03-600x416.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.climatechangenews.com/2012/02/27/meet-the-techno-greens/",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Book Chapter",
+          "subtitle1": "",
+          "caption1": "I have written a book chapter in a major encyclopaedia on Nutrition",
+          "title2": "Peer-reviewed papers",
+          "subtitle2": "",
+          "caption2": "Scientific research articles I have published in food and nutrition<br>",
+          "title3": "PhD",
+          "subtitle3": "",
+          "caption3": "My PhD thesis on the link between physiology, metabolism and eating behaviour.<br> ",
+          "title4": "Web Content",
+          "subtitle4": "",
+          "caption4": "Article I wrote for the Climate Home News website on sustainability and future agricultural technology<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Encyclopedia-Human-Nutrition-Three-Volume-Set/dp/0122266943/ref=pd_cp_14_1?ie=UTF8&amp;refRID=08N161ZHPTE1H0ZF6Y5C\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.researchgate.net/profile/Darren_Hughes\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.researchgate.net/publication/36130028_Exercise_appetite_and_energy_balance\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Social Media</strong><br><br>Twitter: &nbsp;<b><a href=\"https://twitter.com/scienceforfood\" target=\"_blank\">@ScienceForFood\n</a></b><br><br>\n<br><br>LinkedIn:&nbsp;<b><a href=\"https://www.linkedin.com/in/drdarrenhughes\" target=\"_blank\">drdarrenhughes</a></b><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html\">Home</a></li><li><a class=\"text-white\" href=\"page1.html\">About me</a></li><li><a class=\"text-white\" href=\"page5.html\">Testimonials</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dhughes23a@me.com",
+            "alerts": {
+              "success": "Thanks for contacting me, I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-12",
+          "_styles": {
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Testimonials",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "title": "What my clients say",
+          "subtitle": "Testimonials I have received from clients",
+          "testimonial": [
+            {
+              "authorName": "Sir John Beddington",
+              "authorBio": "Former UK Chief Scientific Adviser (2007-2012) and Professor at Oxford University",
+              "text": "<p>“Darren has a deep understanding of nutrition, agriculture and food systems and is able to articulate this in a manner appropriate to different audiences. His briefings and presentations are invaluable for the Global Panel”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jb1-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Emmy Simmons",
+              "authorBio": "Member of the the Global Panel on Agriculture and Food Systems for Nutrtion",
+              "text": "<p>“Darren has brought focus and professionalism. He has facilitated dialogues in ways that have brought diverse voices into conversation and advanced understanding of complex challenges in food systems”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/simmons-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "His Excellency John Kufuor",
+              "authorBio": "Former President of Ghana (2001–2009) and Chairperson of the African Union (2007–2008)",
+              "text": "<p>\"Darren’s briefings and presentations have been an essential part of the Global Panel’s success over the last few years.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jk3-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-13"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Social Media</strong><br><br>Twitter: &nbsp;<b><a href=\"https://twitter.com/scienceforfood\" target=\"_blank\">@ScienceForFood\n</a></b><br><br>\n<br><br>LinkedIn:&nbsp;<b><a href=\"https://www.linkedin.com/in/drdarrenhughes\" target=\"_blank\">drdarrenhughes</a></b><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html\">Home</a></li><li><a class=\"text-white\" href=\"page1.html\">About me</a></li><li><a class=\"text-white\" href=\"page5.html\">Testimonials</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dhughes23a@me.com",
+            "alerts": {
+              "success": "Thanks for contacting me, I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-12",
+          "_styles": {
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Presentations",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-24-at-10.04.52-2-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "page6.html#slider3-1h",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-24-at-10.04.24-2-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "page6.html#slider3-1d",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>Presentation I created for a high-level Ministerial meeting in Ghana</b>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>Presentation I created for a high-level Ministerial meeting in Pakistan</b>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1k",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showBullets": false,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide2-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide3-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide4-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide5-1200x675.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide6-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide7-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide8-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide9-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide10-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide11-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide12-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide13-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide14-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide15-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide16-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide17-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide18-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide19-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-1h"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showBullets": false,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide2-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide3-1-1200x675.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide4-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide5-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide6-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide7-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide8-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide9-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide10-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide11-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide12-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide13-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide14-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide15-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide16-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide17-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide18-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide19-1-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide20-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide21-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide22-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide23-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide24-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide25-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide26-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide27-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide28-1200x675.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-1d"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Social Media</strong><br><br>Twitter: &nbsp;<b><a href=\"https://twitter.com/scienceforfood\" target=\"_blank\">@ScienceForFood\n</a></b><br><br>\n<br><br>LinkedIn:&nbsp;<b><a href=\"https://www.linkedin.com/in/drdarrenhughes\" target=\"_blank\">drdarrenhughes</a></b><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html\">Home</a></li><li><a class=\"text-white\" href=\"page1.html\">About me</a></li><li><a class=\"text-white\" href=\"page5.html\">Testimonials</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dhughes23a@me.com",
+            "alerts": {
+              "success": "Thanks for contacting me, I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-12",
+          "_styles": {
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Briefing",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ghana-2019-sjb-brief-3-1400x1980.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Bespoke briefings",
+          "text": "I write bespoke briefings and speeches for senior officials attending high-level events, dinners and meetings in high and lower income countires.  These briefings contain background material, speeches, important points to make, strategic aims and objectives, as well as an analysis of the risks, issues and opportunities.<br><br>Clients have included Ministers, Chief Executive’s, Thought Leaders, and Board Chairs, from many different countires.<br> These written briefings provide a clear understanding of what needs to be achieved to have maximum impact, together with supporting data and evidence.<br><br>It is difficult to provide a full example, given that most of these briefings are confidential, but you will see from picture on the left a front page which shows the type of content that I might include. &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1n",
+          "_styles": {
+            "H3": {
+              "color": "#7c706b"
+            },
+            "P": {
+              "color": "#7c706b"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Social Media</strong><br><br>Twitter: &nbsp;<b><a href=\"https://twitter.com/scienceforfood\" target=\"_blank\">@ScienceForFood\n</a></b><br><br>\n<br><br>LinkedIn:&nbsp;<b><a href=\"https://www.linkedin.com/in/drdarrenhughes\" target=\"_blank\">drdarrenhughes</a></b><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html\">Home</a></li><li><a class=\"text-white\" href=\"page1.html\">About me</a></li><li><a class=\"text-white\" href=\"page5.html\">Testimonials</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dhughes23a@me.com",
+            "alerts": {
+              "success": "Thanks for contacting me, I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-12",
+          "_styles": {
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Tools",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#7c706b"
+            },
+            ".lead P": {
+              "color": "#7c706b"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1386.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a38f84",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
+          },
+          "title": "Tools and utilities",
+          "text": "<p><b>Some examples of Tools and web-based utilities I have prepared for clients</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1o"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-24-at-10.06.27-2-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://scienceforfood.org",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-04-24-at-10.05.25-2-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://scienceforfood.org/compendium/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Food Systems Policy Tool",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "A Food Systems Policy Tool I developed to support the delivery of national nutrition strategies. Primarily aimed at low andmiddle income countries, the Tool will help executives and public officials take the ‘next step’ in validating diet and nutrtion-related programmes and support their implementation. ",
+          "title2": "Diet quality and food systems compendium",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "An interactive information compendium for food systems and diets based on the work of Glopan. It is intended to introduce the reader to the concept of food systems, diets and their interconnectivity. <i>Please note, this is a work in progress so the only working example is on biofortification.</i><br>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://scienceforfood.org\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://scienceforfood.org/compendium/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1p",
+          "_styles": {
+            "H5": {
+              "text-align": "center"
+            },
+            "H4": {
+              "color": "#7c706b"
+            },
+            "P": {
+              "color": "#7c706b"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
+          "text1": "<strong>Social Media</strong><br><br>Twitter: &nbsp;<b><a href=\"https://twitter.com/scienceforfood\" target=\"_blank\">@ScienceForFood\n</a></b><br><br>\n<br><br>LinkedIn:&nbsp;<b><a href=\"https://www.linkedin.com/in/drdarrenhughes\" target=\"_blank\">drdarrenhughes</a></b><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html\">Home</a></li><li><a class=\"text-white\" href=\"page1.html\">About me</a></li><li><a class=\"text-white\" href=\"page5.html\">Testimonials</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dhughes23a@me.com",
+            "alerts": {
+              "success": "Thanks for contacting me, I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-12",
+          "_styles": {
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
